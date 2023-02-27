@@ -7,7 +7,8 @@ const x2 = 7;
 
 // 👇🏻 Tendrás que almacenar el valor de la comparación aquí modificando estas líneas
 const x1Comparation = false;
-const x2Comparation = false;
+const x2Comparation = true;
 // 👆🏻
 
 console.log(x1Comparation, x2Comparation);
+
